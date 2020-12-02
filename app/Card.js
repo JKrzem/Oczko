@@ -8,7 +8,7 @@ export class Card {
     mapTextToSign = {
         hearts: "&hearts;",
         spades: "&spades;",
-        diamonds: "&diamonds;",
+        diamonds: "&diams;",
         clubs: "&clubs;",
     }
 
